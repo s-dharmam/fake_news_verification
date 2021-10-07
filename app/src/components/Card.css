@@ -1,0 +1,29 @@
+.message-card {
+    
+
+    background-color: #d6e3eb;
+    
+    margin:5px;
+    
+    
+}
+.text{
+    font-size: 40px;
+    color: balck;  
+      
+}
+.button{
+   
+    padding: 5px;
+    border: none;
+    margin: 5px;
+    
+}
+.not-fake-button{
+    background-color: rgb(151, 250, 151);
+
+}
+.fake-button{
+    background-color: rgb(245, 167, 167);
+ 
+}

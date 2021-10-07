@@ -4,8 +4,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 sid_obj = SentimentIntensityAnalyzer()
 import pandas as pd
 #sentiment_dict = sid_obj.polarity_scores(sentence)
-data = pd.read_csv("badwords.csv")
-badwords = data['jigaboo'].tolist()
+
 
 
 class Query:
