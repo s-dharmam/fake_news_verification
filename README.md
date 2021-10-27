@@ -1,5 +1,13 @@
 # fake_news_verification_platform
-made using react frontend and flask backend
+made using react.js frontend and flask backend  
+
+primary users: news verifiers  
+
+features:   
+
+-Offensive words highlighter
+-sentimental score to each to better make judgement easier for verifier.
+-twitter trends filter: used twitter trends keywords to filter out sensitive news first.
 
 ## How to run the Project? 
 1. Download the Repo and go to the respective folder and start the Command Line Interface in the particular folder.
