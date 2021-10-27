@@ -1,4 +1,4 @@
-# fake_news_verification_paltform
+# fake_news_verification_platform
 made using react frontend and flask backend
 
 ## How to run the Project? 
