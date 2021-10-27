@@ -5,8 +5,10 @@ primary users: news verifiers
 
 features:   
 
--Offensive words highlighter
--sentimental score to each to better make judgement easier for verifier.
+-Offensive words highlighter  
+
+-sentimental score to each to better make judgement easier for verifier.  
+
 -twitter trends filter: used twitter trends keywords to filter out sensitive news first.
 
 ## How to run the Project? 
