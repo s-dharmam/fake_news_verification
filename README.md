@@ -3,15 +3,15 @@ made using react.js frontend and flask backend
 
 primary users: news verifiers  
 
-##features:   
+## features:   
 
-##-Offensive words highlighter  
-##-sentimental score to each to better make judgement easier for verifier.  
+## -Offensive words highlighter  
+## -sentimental score to each to better make judgement easier for verifier.  
 ![image](https://user-images.githubusercontent.com/49832962/139056043-91b7fa59-5dc6-4502-8265-7dfdbf900685.png)
   
   
 
-##-twitter trends filter: used twitter trends keywords to filter out sensitive news first.
+## -twitter trends filter: used twitter trends keywords to filter out sensitive news first.
 ![temp](https://user-images.githubusercontent.com/49832962/139056649-ee81074e-0675-40dd-8336-b1ba753455d3.png)
 ##As shown in above picture, twitter trend called "pegasus" can be selected to filter the feed. This feature helps to find out latest sensitive news which needs to be prioritized for verification.
 
